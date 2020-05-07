@@ -1,0 +1,94 @@
+.error_msg {
+	color:red;
+	font-weight: bold;
+	margin-left: 19%;
+}
+
+.error_msg1 {
+	color:red;
+	font-weight: bold;
+}
+
+#button_active_width {
+	width: 100px;
+}
+
+#error_sucess {
+	margin-top: 10px;
+}
+
+#error_worng {
+	margin-top: 10px;
+}
+
+
+#button_right {
+	float: right;
+	
+}
+
+#id456 {
+	font-size:14px;
+}
+#id45694 {
+	margin-right:-2px;
+}
+#user_image_7 {
+	width : 60px;
+	height : 32px;
+}
+
+#d2d6de4 {
+	border-top-color:#d2d6de;
+	border-top : 1px solid #d2d6de;
+}
+
+#d2d6de {
+	border-top-color:#d2d6de;
+}
+
+#back182{
+	border-top :1.5px solid #d2d6de;
+}
+
+#small_width7 {
+	width: 27%;
+}
+	
+#small_width789797 {
+	width: 27%;
+}
+
+#product_type_id{
+	width: 27%;
+}
+
+#id456{
+	margin-right: 3px; 
+
+}
+
+#juqey_7815 {
+	color: red;
+}
+
+
+
+
+.float_7854{
+  position:fixed;
+  width:60px;
+  height:60px;
+  top:80%;
+  right:40px;
+  background-color:#3c8dbc;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  box-shadow: 2px 2px 3px #999;
+
+}
+
+.my-float_7854{
+  margin-top:22px;
+}
